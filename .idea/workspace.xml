@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d132b828-18da-437e-97a4-5ce11410279c" name="Changes" comment="crud NodeJS" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/front/student-front" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front/student-front" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2c6ZnneMjtxGbGbF6OrdukyilvR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Users\\coumba\\OneDrive\\Documents\\M2GL\\serviceWeb\\Node_Js\\front\\student-front\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d132b828-18da-437e-97a4-5ce11410279c" name="Changes" comment="" />
+      <created>1707434157955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707434157955</updated>
+      <workItem from="1707434159363" duration="1367000" />
+      <workItem from="1707435934077" duration="341000" />
+      <workItem from="1707436328052" duration="794000" />
+      <workItem from="1707437163411" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707434237982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707434237982</updated>
+    </task>
+    <task id="LOCAL-00002" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707434319536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707434319536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707435319130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707435319130</updated>
+    </task>
+    <task id="LOCAL-00004" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707436038574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707436038574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707436115988</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707436115988</updated>
+    </task>
+    <task id="LOCAL-00006" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707436186463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707436186463</updated>
+    </task>
+    <task id="LOCAL-00007" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707436380284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707436380284</updated>
+    </task>
+    <task id="LOCAL-00008" summary="crud NodeJS">
+      <option name="closed" value="true" />
+      <created>1707436545523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707436545523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="crud NodeJS" />
+    <option name="LAST_COMMIT_MESSAGE" value="crud NodeJS" />
+  </component>
+</project>
